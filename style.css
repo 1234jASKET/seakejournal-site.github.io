@@ -7,7 +7,7 @@ body {
   }
   
   .container {
-    max-width: 1050px;
+    max-width: 1350px;
     margin: 40px auto;
     background-color: #fff;
     padding: 30px;
@@ -19,7 +19,7 @@ body {
   
   img {
     width: 400%;
-    max-height: 100px;
+    max-height: 200px;
     object-fit: contain;
     height: auto;
     border-radius: 10px;
